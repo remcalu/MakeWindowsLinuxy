@@ -16,7 +16,7 @@ choco install gsudo -y
 
 # Set up zsh
 Write-Host "Setting up zsh..." -ForegroundColor Green
-move zsh-files\* "C:\Program Files\Git"
+Copy-Item -Path "zsh-files\*" -Destination "C:\Program Files\Git" -Force
 
 # Launch git bash and run more zsh set up commands
 Write-Host "Launching git bash and setting up zsh..." -ForegroundColor Green

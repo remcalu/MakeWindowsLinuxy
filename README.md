@@ -2,8 +2,12 @@
 
 <img src="https://user-images.githubusercontent.com/59599955/235325729-74113269-f709-4141-9ef4-11cbf5393c8e.jpg" alt="_48e6bbd8-258a-4f95-a655-d7fd825aaafc" width="384" height="384">
 
-<!-- Add a comment below the image -->
-<p>A little bit of AI art for the fun of it</p>
+Are you tired of how terrible powershell is? I mean, WSL is a thing, but its so darn laggy, and the different filesystem that it uses is also annoying. Well, now you can do things more easily with the windows terminal! After this guide, you will have...
+- A much more versatile shell (zsh)
+- The ability to use `git`, and view branch names in the terminal prompt
+- The ability to use `python3`
+- Access to a linux-like `sudo` command
+- Access to many more linux-like commands such as `grep`, `wget`, `which`, `ssh`, and `gzip`
 
 # Instructions
 ### Mandatory

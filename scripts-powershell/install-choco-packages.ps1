@@ -1,0 +1,6 @@
+& "choco-packages\install-git-bash.ps1"
+& "choco-packages\install-gsudo.ps1"
+& "choco-packages\install-python3.ps1"
+& "choco-packages\install-gnuwin.ps1"
+& "choco-packages\install-openssh.ps1"
+& "choco-packages\install-coreutils.ps1"

@@ -2,5 +2,4 @@
 touch ~/.zshrc
 
 # Setting up oh-my-zsh for a nicer looking shell
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-exit
+sh -c "RUNZSH=no $(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
